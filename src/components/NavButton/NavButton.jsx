@@ -3,7 +3,7 @@ import './NavButton.css'
 
 const NavButton = () => {
   return (
-    <a href='/property-details' className="nav-btn">
+    <a href='#' className="nav-btn">
       <span className="btn-icon">
         <FaCalendar />
       </span>
