@@ -6,7 +6,7 @@ export const data = [
   {
     img: img1,
     text: "Hurry! Get the Best Villa for you",
-    city: <p className='slide-city'>Toronto, <span>Canada</span></p>,
+    city: <p className='slide-city'>Syria, <span>Banias</span></p>,
   },
   {
     img: img2,
@@ -16,6 +16,6 @@ export const data = [
   {
     img: img3,
     text: "Act Now! Get the highest level penthouse",
-    city: <p className='slide-city'>Toronto, <span>Canada</span></p>,
+    city: <p className='slide-city'>Spain, <span>Barcelona</span></p>,
   },
 ]

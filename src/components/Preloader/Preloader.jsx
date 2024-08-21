@@ -1,11 +1,11 @@
-import './Preloader.css'
+import "./Preloader.css";
 
 const Preloader = () => {
   return (
     <div className="preloader">
-    <div className="spinner"></div>
-  </div>
-  )
-}
+      <div className="spinner"></div>
+    </div>
+  );
+};
 
-export default Preloader
+export default Preloader;
