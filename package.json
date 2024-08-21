@@ -1,6 +1,5 @@
 {
   "name": "task2",
-  "homepage": "https://abdullatif-jarkas.github.io/my-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
